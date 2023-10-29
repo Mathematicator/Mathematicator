@@ -1,7 +1,7 @@
 ## 🚀 Senior Artificial Intelligence & Data Science Engineer/Researcher
 
 <!-- Profile Background Image -->
-<div style="background-image: url('background.jpeg'); height: 350px; background-size: cover; background-repeat: no-repeat; background-position: top; border-radius: 25px; margin-bottom: 30px;"></div>
+<div style="background-image: url('./background.jpeg'); height: 350px; background-size: cover; background-repeat: no-repeat; background-position: top; border-radius: 25px; margin-bottom: 30px;"></div>
 
 ---
 
