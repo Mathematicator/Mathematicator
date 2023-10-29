@@ -1,7 +1,7 @@
 ## 🚀 Senior Artificial Intelligence & Data Science Engineer/Researcher
 
-<!-- Profile Background Image -->
-<div style="background-image: url('https://media.licdn.com/dms/image/C4D16AQHM28panib5Qg/profile-displaybackgroundimage-shrink_350_1400/0/1570556475269?e=1704326400&v=beta&t=4S1QptB0YpPqSEao2s-H5-SoKrLdXY52Rr4R7QfEV38'); height: 350px; background-size: cover; background-repeat: no-repeat; background-position: top; border-radius: 25px; margin-bottom: 30px;"></div>
+<div style="background-image: url('https://media.licdn.com/dms/image/C4D16AQHM28panib5Qg/profile-displaybackgroundimage-shrink_350_1400/0/1570556475269?e=1704326400&v=beta&t=4S1QptB0YpPqSEao2s-H5-SoKrLdXY52Rr4R7QfEV38'); height: 500px; background-size: cover; background-repeat: no-repeat; background-position: center;"></div>
+
 
 ---
 
