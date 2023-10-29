@@ -17,7 +17,7 @@
 
 ---
 
-## **Expertise Areas** 🧠
+## 🧠 **Expertise Areas** 
 
 - Large Language Models (LLMs) 🤖
 - Data Analysis 📊
