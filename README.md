@@ -4,7 +4,7 @@
 <img src="/background.jpeg" alt="Background Image" title="Badreddine LEBBAT Senior Artificial Intelligence & Data Science Engineer/Researcher" style="background-size: cover; background-repeat: no-repeat; background-position: top; border-radius: 25px; margin-bottom: 30px; border: 2px solid transparent; transition: border-color 0.3s ease-in-out;" onmouseover="this.style.borderColor='#3498db';" onmouseout="this.style.borderColor='transparent';">
 ---
 
-**Hello!** 🖐️ 'm a trilingual 🗣 Senior Artificial Intelligence & Data Science Engineer/Researcher with 5 years of experience in the field of Data Science and Artificial Intelligence. I specialize in offering expertise to design, implement, and visualize models based on data and machine learning approaches to cater to specific customer needs.
+**Hello!** 🖐️ I'm a trilingual 🗣 Senior AI & Data Science Engineer with 5 years of experience. I excel in designing and implementing data-driven models tailored to client needs.
 
 🔍 **Areas of Passion**: 
 - Advanced NLP techniques including:
