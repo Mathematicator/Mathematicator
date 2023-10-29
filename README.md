@@ -111,7 +111,6 @@ Over the years, I've successfully managed projects worth +€1M across 12+ count
     📈 Result: Enhanced inventory management & supplier collaboration, improving part prediction accuracy. <br>
 </p>
 
-<h1>🛠️ My Technical Stack</h1>
 <h2>👨‍💻 Languages 👨‍💻</h2>
 <p>
     <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python" width="100">
