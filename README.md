@@ -74,7 +74,7 @@ Over the years, I've successfully managed projects worth +€1M across 12+ count
     - [4] [Digital Consulting Week SKEMA ESIEA - LinkedIn](https://www.linkedin.com/pulse/digital-consulting-week-skema-esiea-sophie-botte/?originalSubdomain=fr)
 
 
-<h2 >👩‍💼 My Recent Roles 👩‍💼</h2>
+<h2 >🧑‍🎨 My Recent Roles 🧑‍🎨</h2>
 
 <h3 >📧 Senior Data Scientist - Thuasne, Paris 📧</h3>
 <p >
