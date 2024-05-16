@@ -5,6 +5,7 @@
 ---
 
 **Hello!** 🖐️ I am a Senior AI & Data Science Engineer with 6 years of experience. As a Senior Data Scientist, Machine Learning Engineer, and MLOPS expert, I specialize in Natural Language Processing (NLP) and Large Language Models (LLMs) in the field of Generative AI. I excel in designing and implementing data-driven models tailored to client needs.
+
 🔍 **Areas of Passion**: 
 - Advanced NLP techniques including:
   - LLMs 🤖
