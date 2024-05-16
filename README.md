@@ -199,8 +199,7 @@ Over the years, I've successfully managed projects worth +€1M across 12+ count
 - Result: Realized room reservations in record time considering user habits.  
 **Technical Stack**: Python, Azure, OCR, OpenCV, PyTorch, CNN, NLP, Machine Learning, Scikitlearn, Docker
 
-
-<h2>👨‍💻 Languages</h2>
+<h2 style="font-family: 'Montserrat', sans-serif; font-size: 28px; font-weight: bold; text-transform: uppercase; letter-spacing: 2px;">👨‍💻 Languages</h2>
 <p>
     <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python" width="100">
     <img height="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Pyspark" width="100">
@@ -208,20 +207,20 @@ Over the years, I've successfully managed projects worth +€1M across 12+ count
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="100">
 </p>
 
-<h2>☁️ Cloud Services</h2>
+<h2 style="font-family: 'Roboto', sans-serif; font-size: 24px; font-weight: 600; text-decoration: underline;">☁️ Cloud Services</h2>
 <p>
     <img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="Microsoft Azure" width="100">
     <img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="100">
     <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="Google Cloud" width="100">
 </p>
 
-<h2>🐳 Containers & Orchestration</h2>
+<h2 style="font-family: 'Open Sans', sans-serif; font-size: 26px; font-weight: bold; font-style: italic;">🐳 Containers & Orchestration</h2>
 <p>
     <img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" width="100">
     <img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="Kubernetes" width="100">
 </p>
 
-<h2>🤖 Machine Learning</h2>
+<h2 style="font-family: 'Lato', sans-serif; font-size: 24px; font-weight: 700; text-transform: capitalize;">🤖 Machine Learning</h2>
 <p>
     <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="TensorFlow" width="100">
     <img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="PyTorch" width="100">
@@ -229,7 +228,7 @@ Over the years, I've successfully managed projects worth +€1M across 12+ count
     <img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/airflow.svg" alt="Airflow" width="100">
 </p>
 
-<h2>🌐 NLP</h2>
+<h2 style="font-family: 'Poppins', sans-serif; font-size: 28px; font-weight: 800; letter-spacing: 1px;">🌐 NLP</h2>
 <p>
     <img height="50" src="https://images.ctfassets.net/piwi0eufbb2g/1b64Ufrpr3mWL36ScolqKW/c107826bf3e006c411079eccfa04f140/nltk-banner.jpg?w=1200&h=630" alt="NLTK" width="100">
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/2560px-SpaCy_logo.svg.png" alt="spaCy" width="100">
@@ -239,9 +238,7 @@ Over the years, I've successfully managed projects worth +€1M across 12+ count
     <img height="50" src="https://1000logos.net/wp-content/uploads/2020/08/Llama-Logo.png" alt="Llama" width="100">
 </p>
 
-
-
-<h2>📊 Data Science</h2>
+<h2 style="font-family: 'Raleway', sans-serif; font-size: 30px; font-weight: 900; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">📊 Data Science</h2>
 <p>
     <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="Jupyter Notebook" width="100">
     <img height="50" src="https://github.com/run-llama/logos/blob/main/LlamaLogo.svg" alt="LlamaIndex" width="100">
@@ -261,13 +258,13 @@ Over the years, I've successfully managed projects worth +€1M across 12+ count
     <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="Google Cloud">
 </p>
 
-<h2>🌐 Web Development</h2>
+<h2 style="font-family: 'Source Sans Pro', sans-serif; font-size: 28px; font-weight: 700; letter-spacing: 1.5px;">🌐 Web Development</h2>
 <p>
     <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="Flask" width="100">
     <img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" width="100">
 </p>
 
-<h2>🔧 Infrastructure</h2>
+<h2 style="font-family: 'Merriweather', serif; font-size: 32px; font-weight: 900; font-variant: small-caps;">🔧 Infrastructure</h2>
 <p>
     <img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="Terraform" width="100">
     <img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="GitLab" width="100">
@@ -277,7 +274,7 @@ Over the years, I've successfully managed projects worth +€1M across 12+ count
     <img height="50" src="https://www.vectorlogo.zone/logos/pytest/pytest-ar21.svg" alt="Pytest" width="100">
 </p>
 
-<h2>🗃️ Databases</h2>  
+<h2 style="font-family: 'Roboto Slab', serif; font-size: 30px; font-weight: 800; text-decoration: overline;">🗃️ Databases</h2>
 <p>
     <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL">
     <img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL">
@@ -287,7 +284,7 @@ Over the years, I've successfully managed projects worth +€1M across 12+ count
     <img height="50" src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg" alt="Neo4js">
 </p>
 
-<h2>🛠️ Engineering</h2>
+<h2 style="font-family: 'Nunito', sans-serif; font-size: 28px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">🛠️ Engineering</h2>
 <p>
     <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git">
     <img height="50" src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/mlflow-white.svg" alt="MLflow">
@@ -297,7 +294,7 @@ Over the years, I've successfully managed projects worth +€1M across 12+ count
     <img height="50" src="https://www.vectorlogo.zone/logos/chefio/chefio-ar21.svg" alt="Chef">
 </p>
 
-<h2>📈 Big Data</h2>
+<h2 style="font-family: 'Playfair Display', serif; font-size: 36px; font-weight: 900; font-style: italic; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">📈 Big Data</h2>
 <p>
     <img height="50" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="Apache Kafka">
     <img height="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Apache Spark">
@@ -307,7 +304,6 @@ Over the years, I've successfully managed projects worth +€1M across 12+ count
     <img height="50" src="https://www.vectorlogo.zone/logos/apache_storm/apache_storm-ar21.svg" alt="Apache Storm">
     <img height="50" src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-ar21.svg" alt="Apache NiFi">
 </p>
-
 
 <h1> 📋 Functional/Managerial Skills 📋</h1>
 
