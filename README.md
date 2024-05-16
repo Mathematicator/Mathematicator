@@ -225,7 +225,8 @@ Over the years, I've successfully managed projects worth +€1M across 12+ count
 <p>
     <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="TensorFlow" width="100">
     <img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="PyTorch" width="100">
-    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" width="100">
+    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="100">
+    <img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/airflow.svg" alt="Airflow" width="100">
 </p>
 
 <h2>🌐 NLP</h2>
@@ -245,16 +246,16 @@ Over the years, I've successfully managed projects worth +€1M across 12+ count
     <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="Jupyter Notebook" width="100">
     <img height="50" src="https://github.com/run-llama/logos/blob/main/LlamaLogo.svg" alt="LlamaIndex" width="100">
     <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="NumPy" width="100">
-    <img height="50" src="https://www.vectorlogo.zone/logos/pandas/pandas-ar21.svg" alt="Pandas" width="100">
-    <img height="50" src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-ar21.svg" alt="Matplotlib" width="100">
+    <img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/pandas.svg" alt="Pandas" width="100">
+    <img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/matplotlib.svg" alt="Matplotlib" width="100">
     <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="TensorFlow">
     <img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="PyTorch">
-    <img height="50" src="https://www.vectorlogo.zone/logos/scikit_learn/scikit_learn-ar21.svg" alt="Scikit-learn">
+    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn">
     <img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="OpenCV">
     <img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="Power BI">
     <img height="50" src="https://github.com/gilbarbara/logos/blob/main/logos/tableau.svg" alt="Tableau">
     <img height="50" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" alt="Databricks">
-    <img height="50" src="https://commons.wikimedia.org/wiki/File:Qlik_Logo.svg" alt="Qlik">
+    <img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/qlik.svg" alt="Qlik">
     <img height="50" src="https://www.vectorlogo.zone/logos/sas/sas-ar21.svg" alt="SAS">
     <img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="Microsoft Azure">
     <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="Google Cloud">
@@ -273,6 +274,7 @@ Over the years, I've successfully managed projects worth +€1M across 12+ count
     <img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="Jenkins" width="100">
     <img height="50" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="Kafka" width="100">
     <img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="Linux" width="100">
+    <img height="50" src="https://www.vectorlogo.zone/logos/pytest/pytest-ar21.svg" alt="Pytest" width="100">
 </p>
 
 <h2>🗃️ Databases</h2>  
@@ -280,14 +282,15 @@ Over the years, I've successfully managed projects worth +€1M across 12+ count
     <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL">
     <img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL">
     <img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB">
-    <img height="50" src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-ar21.svg" alt="Microsoft SQL Server">
+    <img height="50" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" alt="Microsoft SQL Server">
     <img height="50" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="Oracle">
+    <img height="50" src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg" alt="Neo4js">
 </p>
 
 <h2>🛠️ Engineering</h2>
 <p>
     <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git">
-    <img height="50" src="https://www.vectorlogo.zone/logos/mlflow/mlflow-ar21.svg" alt="MLflow">
+    <img height="50" src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/mlflow-white.svg" alt="MLflow">
     <img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="Terraform">
     <img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="Ansible">
     <img height="50" src="https://www.vectorlogo.zone/logos/puppet/puppet-ar21.svg" alt="Puppet">
